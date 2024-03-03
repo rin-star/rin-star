@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=my+name+is+Rin+Ryu;i+have+been+doing+robotics+for+5+years+;i+am+such+a+cool+person;i+like+dogs+*wink+wink*;i+am+asian)](https://git.io/typing-svg)
 
 <!--
 **rin-star/rin-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
